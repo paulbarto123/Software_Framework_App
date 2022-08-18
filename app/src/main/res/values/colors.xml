@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorPrimary">#EB6F8B</color>
+    <color name="angular">#1D1D1D</color>
+    <color name="angular_secondary">#BCBCBC</color>
+    <color name="grails">#E7D600</color>
+    <color name="grails_secondary">#F8F3B3</color>
+    <color name="code_igniter">#D81C2F</color>
+    <color name="code_igniter_secondary">#F3BBC1</color>
+    <color name="laravel">#FF5800</color>
+    <color name="laravel_secondary">#FFCDB3</color>
+    <color name="spring">#84C36E</color>
+    <color name="spring_secondary">#DAEDD4</color>
+    <color name="vue_js">#9CA5B9</color>
+    <color name="vue_js_secondary">#E1E4EA</color>
+    <color name="flutter">#A664A0</color>
+    <color name="flutter_secondary">#E4D1E3</color>
+    <color name="ionic">#01B7ED</color>
+    <color name="ionic_secondary">#B3EAFA</color>
+    <color name="react">#485EC6</color>
+    <color name="react_secondary">#172433</color>
+    <color name="xamarin_secondary">#0c1724</color>
+</resources>

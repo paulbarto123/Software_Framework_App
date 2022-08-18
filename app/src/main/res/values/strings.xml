@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Software Framework</string>
+    <string name="heroes_name">Nama Framework</string>
+    <string name="detail">Detail</string>
+    <string name="colon">&#160; : &#160;</string>
+    <string name="release_date">Release Date</string>
+    <string name="programming_language">Written in</string>
+    <string name="developers">Developers</string>
+    <string name="desc">Kotlin is always be my favourite programming language</string>
+    <string name="profile">Profile</string>
+    <string name="link_linkedin">Dicoding Account</string>
+    <string name="email">siahaan.paulus123@gmail.com</string>
+    <string name="nama">Paulus B. Siahaan</string>
+    <string name="bio">\"Just A Curious and Humble Developer\"</string>
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Github.com/List_Kotlin_App/app/src/main/res/drawable/bg_desc.xml" value="0.3365" />
+        <entry key="..\:/Github.com/List_Kotlin_App/app/src/main/res/drawable/bg_splash.xml" value="0.1315" />
+        <entry key="..\:/Github.com/List_Kotlin_App/app/src/main/res/drawable/border_lline.xml" value="0.1315" />
+        <entry key="..\:/Github.com/List_Kotlin_App/app/src/main/res/drawable/custom_ripple.xml" value="0.1315" />
+        <entry key="..\:/Github.com/List_Kotlin_App/app/src/main/res/drawable/ic_profile.xml" value="0.371" />
+        <entry key="..\:/Github.com/List_Kotlin_App/app/src/main/res/layout/activity_detail.xml" value="0.33" />
+        <entry key="..\:/Github.com/List_Kotlin_App/app/src/main/res/layout/activity_detail2.xml" value="0.1" />
+        <entry key="..\:/Github.com/List_Kotlin_App/app/src/main/res/layout/activity_main.xml" value="0.18819655521783182" />
+        <entry key="..\:/Github.com/List_Kotlin_App/app/src/main/res/layout/activity_profile.xml" value="0.33" />
+        <entry key="..\:/Github.com/List_Kotlin_App/app/src/main/res/layout/activity_profile2.xml" value="0.3691123188405797" />
+        <entry key="..\:/Github.com/List_Kotlin_App/app/src/main/res/layout/activity_splash.xml" value="0.13518518518518519" />
+        <entry key="..\:/Github.com/List_Kotlin_App/app/src/main/res/layout/ic_profile.xml" value="0.1685185185185185" />
+        <entry key="..\:/Github.com/List_Kotlin_App/app/src/main/res/layout/item_row_hero.xml" value="0.33" />
+        <entry key="..\:/Github.com/List_Kotlin_App/app/src/main/res/menu/menu_profile.xml" value="0.1685185185185185" />
+        <entry key="..\:/Github.com/List_Kotlin_App/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1315" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
