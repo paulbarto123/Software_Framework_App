@@ -6,4 +6,4 @@ Here is the preview of the Application
 ![Main_Screen](https://user-images.githubusercontent.com/61013771/185288023-fc60a36d-cbcd-4feb-a2a7-2abbfedc824e.png =250x250)
 ![Detail_Screen](https://user-images.githubusercontent.com/61013771/185287998-9f8cae67-4e9e-4414-9697-fcf6ecfca9e6.png =250x250)
 
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="[https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://user-images.githubusercontent.com/61013771/185287998-9f8cae67-4e9e-4414-9697-fcf6ecfca9e6.png)" width="200" height="400" />
+<img src="[https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://user-images.githubusercontent.com/61013771/185287998-9f8cae67-4e9e-4414-9697-fcf6ecfca9e6.png)" width="200" height="400" />
